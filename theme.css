@@ -1,0 +1,11 @@
+body {
+  background-color: orange;
+}
+
+span {
+  display: inline-block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  background-color: antiquewhite;
+}
